@@ -1,0 +1,9 @@
+https://github.com/mozmark/Python_MD25/blob/master/drive.py
+https://github.com/TCAllen07/raspi-device-mocks
+https://github.com/fuzzycode/RoboPi
+http://wiki.erazor-zone.de/wiki:linux:python:smbus:doc
+https://www.robot-electronics.co.uk/htm/md25i2c.htm
+https://github.com/kennethreitz/samplemod
+https://github.com/aio-libs/janus
+https://github.com/yoannmoinet/nipplejs
+http://raspberrypi.stackexchange.com/questions/7987/wifi-configuration-on-arch-linux-arm
